@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Narendra Patne</h1>
+<h3 align="center">👋 Hi, I'm Narendra Patne, a passionate B.Tech (IT) student at G H Raisoni College, Pune, with a strong foundation in full-stack and Android development. 💻 Skilled in Java, JavaScript, React.js, Node.js, Firebase, and MongoDB, I love building real-world applications that solve meaningful problems. 📱 Built Crop Store, a Firebase-powered crop marketplace Android app, and Paradisia, a full-stack vacation rental platform inspired by Airbnb. 🔧 Proficient with tools like Git, Figma, Postman, and RESTful APIs. 🏆 1st Runner-Up in a Blind C Coding Competition & Top 50 finalist in SIH (Coastal Security) at college level. 🌱 Currently learning system design and exploring AI integration into mobile apps. 🚀 Open to internships, freelance projects, and collaborative hackathons!</h3>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narendra-patne) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narendrapatne2004@gmail.com) 
 
