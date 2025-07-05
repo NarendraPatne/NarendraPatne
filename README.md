@@ -22,7 +22,7 @@
 
 - 📫 My Email **narendrapatne2004@gmail.com**
 
-- 📄 My Resume [Link](https://drive.google.com/file/d/1lKuXbyyzw6lkI78gaHYP9zhK0teOivjM/view)
+- 📄 My Resume <a href="https://drive.google.com/file/d/1lKuXbyyzw6lkI78gaHYP9zhK0teOivjM/view" target="_blank">Link</a>
   </div>
 </div>
 
