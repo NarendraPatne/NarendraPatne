@@ -28,12 +28,25 @@
 
 <br/><br/><br/><br/>
 # <div align="center">🌐 Socials:<div/>
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/narendra-patne" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/NarendraPatne" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:narendrapatne2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://linktr.ee/NarendraPatne" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
+  </a>
+</div>
+
+###
   <br/>
   <br/>
 
@@ -79,5 +92,11 @@
   ![](https://github-profile-trophy.vercel.app/?username=NarendraPatne&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </div>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NarendraPatne/NarendraPatne/output/snake.svg" alt="Snake animation" />
+
+###
 
