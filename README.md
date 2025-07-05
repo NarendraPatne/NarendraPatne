@@ -9,8 +9,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=narendrapatne&label=Profile%20views&color=0e75b6&style=flat" alt="narendrapatne" /> </p>
 <hr/>
-<img align="right" alt="coding" width="400" src="./github-ppicrop.gif">
 
+<div>
+  <div align="right">
+    <img align="right" alt="coding" width="250" src="./github-ppicrop.gif">
+  </div>
+  <div align="left">
+    
 - 👨‍💻 MY Portfolio [Link](https://narendrapatne.vercel.app/)
 
 - 💬 Ask me about **MERN Stack & Android Development**
@@ -18,7 +23,10 @@
 - 📫 My Email **narendrapatne2004@gmail.com**
 
 - 📄 My Resume [Link](https://drive.google.com/file/d/1lKuXbyyzw6lkI78gaHYP9zhK0teOivjM/view)
+  </div>
+</div>
 
+<br/><br/><br/><br/>
 # <div align="center">🌐 Socials:<div/>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
