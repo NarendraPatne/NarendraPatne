@@ -1,3 +1,5 @@
+[![MasterHead](./codeboy.gif)](https://narendrapatne.vercel.app/)
+
 <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋+This+is++Narendra+Patne;&center=true&size=20">
@@ -59,7 +61,9 @@
    <a  href="https://github.com/NarendraPatne/Paradisia" title="Data Structures"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=narendrapatne&repo=Paradisia&theme=dark&border_color=FF7601&border_radius=10"></a>
 </div>
 <br/><br/>
+
 ## <div align="center">🏆 GitHub Trophies<div/>
+
 <div align="center">
   <br/>
   
